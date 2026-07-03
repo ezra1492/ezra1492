@@ -15,8 +15,8 @@ My background combines the **analytical mind** of 6 semesters of Civil Engineeri
 
 I am deeply committed to my transition into tech, dedicating **6–8 hours a day, 6 days a week** to mastering web development in depth.
 
-- 🔭 **I’m currently working on:** Completing the *Getting started path* on **Frontend Mentor** (75% done! 🎨)
-- 🌱 **I’m currently learning:** The *Fullstack Developer Path* at **Scrimba Pro** (Deep diving into JavaScript & UI logic 💻)
+- 🌱 **I’m currently learning:** The *[Fullstack Developer Path](https://scrimbaguide.tech/docs/paths/fullstack-developer-path/)* at **Scrimba Pro** (Deep diving into JavaScript & UI logic 💻)
+- 🔭 **I’m currently working on:** Completing the *Getting started [path](https://www.frontendmentor.io/learning-paths)* on **Frontend Mentor** (75% done! 🎨)
 - 🛠️ **Tech Stack:** HTML5 | CSS3 | JavaScript | Flexbox | Responsive Design | Git & GitHub
 
 ---
