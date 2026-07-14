@@ -17,7 +17,7 @@ Fullstack Path student @ Scrimba. Former AT&T/Verizon Team Lead with a Civil Eng
 I firmly believe that **great developers don't reinvent the wheel—they learn how to steer it.** My growth strategy relies on leveraging industry standards, modern tools, and community knowledge:
 
 - **Documentation First:** I rely on **MDN Web Docs, W3C, and web.dev** as my absolute sources of truth to ensure everything I build aligns with official, accessible web standards.
-- **Curated Visual Learning:** I complement my curriculum by studying the workflows of experienced developers. I actively follow high-quality channels like [**@coding2go](https://www.youtube.com/@coding2go), [@HowtoWebDev](https://www.youtube.com/@HowtoWebDev), and [@CodeWithDivine](https://www.youtube.com/@CodeWithDivine)** to learn modern layout techniques and industry-standard practices.
+- **Curated Visual Learning:** I complement my curriculum by studying the workflows of experienced developers. I actively follow high-quality channels like **[@coding2go](https://www.youtube.com/@coding2go)**, **[@HowtoWebDev](https://www.youtube.com/@HowtoWebDev)**, and **[@CodeWithDivine](https://www.youtube.com/@CodeWithDivine)** to learn modern layout techniques and industry-standard practices.
 - **AI as a Tutor & Senior Reviewer:** When I encounter elegant but complex code, I use AI to break it down step-by-step. I treat AI as a virtual mentor to review my code, challenge my logic, and explain edge cases rather than just giving me answers.
 - **[Active Peer Reviewing:](https://www.frontendmentor.io/profile/ezra1492?tab=code-reviews)** I love engaging in code reviews and community feedback. I believe that sharing tips, giving constructive feedback, and learning from peers is the fastest way for all of us to level up together.
 
@@ -46,7 +46,7 @@ I actively leverage AI as a **high-level architectural mentor and tutor**, not a
 
 ## 📚 Beyond the Code
 
--  **What I'm reading:** Balancing code with [*Under the Shadow of the Magic](https://www.goodreads.com/en/book/show/2187700.In_the_Shadow_of_the_Magic_Mountain) Mountain* and *[Contra el estado](https://www.trotta.es/libros/contra-el-estado/9788413640839/)*.
+-  **What I'm reading:** Balancing code with *[Under the Shadow of the Magic Mountain](https://www.goodreads.com/en/book/show/2187700.In_the_Shadow_of_the_Magic_Mountain)* and *[Contra el estado](https://www.trotta.es/libros/contra-el-estado/9788413640839/)*.
 -  **Pronouns:** He / Him
 
 ---
