@@ -9,7 +9,10 @@ Fullstack Path student @ Scrimba. Former AT&T/Verizon Team Lead with a Civil Eng
 
 - 🎓 **[The Fullstack Developer Path @ Scrimba Pro:](https://scrimbaguide.tech/docs/paths/fullstack-developer-path/)** Currently deep-diving into JavaScript & complex UI logic to move past static layouts.
 - 🧭 **[Frontend Mentor (Path 2 - Building Responsive Layouts):](https://www.frontendmentor.io/learning-paths/building-responsive-layouts--z1qCXVqkD)** Sharpening my CSS Grid skills and mastering the art of creating seamless, fluid web pages that scale perfectly across all modern device sizes.
-- 🛠️ **Version Control:** Building an untangled workflow by learning Git through Git Bash, GitHub, and GitHub Desktop.
+- 🛠️ **Version Control & Git Architecture:** Building a solid, untangled workflow across platforms:
+  - Mastered file status lifecycle (Working Directory vs. Staging Area) using **[inter-git](https://inter-git.com/)**.
+  - Currently deep-diving into advanced branch architecture, merge conflicts, and time-travel nodes using **[Learn Git Branching](https://learngitbranching.js.org/)**.
+  - Applying everything locally via **Git Bash**, **GitHub**, and **GitHub Desktop**.
 
 
 ## 🧠 My Learning & Engineering Philosophy
